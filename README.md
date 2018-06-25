@@ -1,8 +1,7 @@
 # Teste para estagio front-end 
 
 ## Por que trabalhar no Kratos?
-
-O Kratos é uma Startup que nasceu em Campo Grande/MS que oferece um sistema de gestão empresarial. Nós entregando aos nossos clientes um sistema e a contabilidade em um único só lugar.
+O Kratos é uma Startup que nasceu em Campo Grande/MS que oferece um sistema de gestão empresarial. Nós entregamos aos nossos clientes um sistema e a contabilidade em um único só lugar.
 
 Quer conhecer mais sobre a empresa? http://somoskratos.com.br/
 
@@ -12,7 +11,6 @@ Estamos procurando pessoas que queiram trabalhar bastante, aprender e crescer r�
 Em seu dia-a-dia, o estagiário implementará o trabalho feito pelo designer e irá interliga-lo ao back-end do Kratos.  
 
 ## Requisitos
-
 * Cursando superior em áreas relacionadas a TI (Análise de Sistemas, Engenharia da Computação, Sistemas de Informação e afins)
 * Ter disponibilidade para trabalhar em Campo Grande/MS.
 * Conhecer (mesmo que superficialmente) as seguintes tecnologias:
@@ -47,7 +45,6 @@ Não conseguiu finalizar completamente o projeto? Também não tem problema, ire
 * Envie um email para (vagas@somoskratos.com.br) com a URL do seu fork avisando que você concluiu o projeto.
 
 ## O Desafio:
-
 Você deverá criar uma SPA (Single Page Aplication) que consuma a seguinte API: [https://test-front-kratos.firebaseio.com/produtos.json](https://test-front-kratos.firebaseio.com/produtos.json). A API apresenta uma listagem de produtos com seu id, descrição, valor e código correspondente.
 A imagem abaixo mostra como deverá ser o layout implementado. Do lado esquerdo é apresentada uma listagem de produtos(que é obtida pela API). No lado direito deverá apresentar uma lista, que consiste na lista de produtos selecionados do lado esquerdo e ao final um totalizador contendo a somatória dos produtos selecionados. 
 ![Template da página a ser desenvolvida](https://github.com/somoskratos/teste-estagio-front-end/blob/master/wireframe.png?raw=true)
