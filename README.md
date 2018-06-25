@@ -61,4 +61,4 @@ Entre os critérios de avaliação estão:
 * Documentação do projeto (README)
 
 ## Restou alguma dúvida?
-Você pode enviar um email para: vagas@somoskratos.com.br
+Você pode enviar um email para: vagas@somoskratos.com.br ou crie uma nova [Isue](https://github.com/somoskratos/teste-estagio-front-end/issues).
