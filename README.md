@@ -9,12 +9,13 @@ Quer conhecer mais sobre a empresa? http://somoskratos.com.br/
 ## Sobre a vaga
 
 Estamos procurando pessoas que queiram trabalhar bastante, aprender e crescer rápido junto com a nossa empresa. **Acreditamos na importância do primeiro contato com o mercado de trabalho.**
+Em seu dia-a-dia, o estagiário implementará o trabalho feito pelo designer e irá interliga-lo ao back-end do Kratos.  
 
 ## Requisitos
 
 * Cursando superior em áreas relacionadas a TI (Análise de Sistemas, Engenharia da Computação, Sistemas de Informação e afins)
 * Ter disponibilidade para trabalhar em Campo Grande/MS.
-* Conhecer as seguintes tecnologias:
+* Conhecer (mesmo que superficialmente) as seguintes tecnologias:
 	* Html
 	* CSS
 	* Javascript
@@ -27,7 +28,6 @@ Estamos procurando pessoas que queiram trabalhar bastante, aprender e crescer r�
 * Metodologias ágeis
 
 ## Tecnologias/Padrões para o desafio
-
 É altamente recomendado a utilização das seguintes tecnologias/padrões:
 * HTML5
 * CSS
@@ -35,6 +35,8 @@ Estamos procurando pessoas que queiram trabalhar bastante, aprender e crescer r�
 * AngularJS
   
 Não entende/conhece de algumas das tecnologias descritas acima? Não tem problema. Você pode submeter o seu projeto em qualquer tecnologia. Porém projetos que utilizem as tecnologias acima terão pontuações maiores.
+
+Não conseguiu finalizar completamente o projeto? Também não tem problema, iremos considerar cada linha de código escrita.
 
 ## Quais são as etapas para participar do processo?
 **ATENÇÃO: O PRAZO SE ENCERRA DIA 20/07/2018** :running:
