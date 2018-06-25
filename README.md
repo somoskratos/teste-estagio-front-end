@@ -8,7 +8,8 @@ Quer conhecer mais sobre a empresa? http://somoskratos.com.br/
 ## Sobre a vaga
 
 Estamos procurando pessoas que queiram trabalhar bastante, aprender e crescer rápido junto com a nossa empresa. **Acreditamos na importância do primeiro contato com o mercado de trabalho.**
-Em seu dia-a-dia, o estagiário implementará o trabalho feito pelo designer e irá interliga-lo ao back-end do Kratos.  
+
+Em seu dia a dia, o estagiário implementará o trabalho feito pelo designer e irá interliga-lo ao back-end do Kratos.  
 
 ## Requisitos
 * Cursando superior em áreas relacionadas a TI (Análise de Sistemas, Engenharia da Computação, Sistemas de Informação e afins)
