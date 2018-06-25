@@ -47,7 +47,7 @@ Não entende/conhece de algumas das tecnologias descritas acima? Não tem proble
 ## O Desafio:
 
 Você deverá criar uma SPA (Single Page Aplication) que consuma a seguinte API: [https://test-front-kratos.firebaseio.com/produtos.json](https://test-front-kratos.firebaseio.com/produtos.json). A API apresenta uma listagem de produtos com seu id, descrição, valor e código correspondente.
-![Template da página a ser desenvolvida]()
+![Template da página a ser desenvolvida](https://github.com/somoskratos/teste-estagio-front-end/blob/master/wireframe.png?raw=true)
 
 ## Critérios de avaliação:
 Entre os critérios de avaliação estão:
