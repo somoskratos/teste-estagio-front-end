@@ -1,7 +1,7 @@
-# Teste para estagio front-end 
+# Teste para estágio front-end 
 
 ## Por que trabalhar no Kratos?
-O Kratos é uma Startup que nasceu em Campo Grande/MS que oferece um sistema de gestão empresarial. Nós entregamos aos nossos clientes um sistema e a contabilidade em um único só lugar.
+O Kratos é uma Startup que nasceu em Campo Grande/MS que oferece um sistema de gestão empresarial. Nós entregamos aos nossos clientes um sistema e a contabilidade em um só lugar.
 
 Quer conhecer mais sobre a empresa? http://somoskratos.com.br/
 
