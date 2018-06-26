@@ -35,7 +35,7 @@ Em seu dia a dia, o estagiário implementará o trabalho feito pelo nosso design
   
 Não entende/conhece de algumas das tecnologias descritas acima? Não tem problema. Você pode submeter o seu projeto em qualquer tecnologia. Porém projetos que utilizem as tecnologias acima terão pontuações maiores.
 
-Não conseguiu finalizar completamente o projeto? Também não tem problema, iremos considerar cada linha de código escrita.
+Não conseguiu finalizar completamente o projeto? Também não tem problema, consideraremos cada linha de código escrita.
 
 ## Quais são as etapas para participar do processo?
 **ATENÇÃO: O PRAZO SE ENCERRA DIA 20/07/2018** :running:
@@ -62,4 +62,4 @@ Entre os critérios de avaliação estão:
 * Documentação do projeto (README)
 
 ## Restou alguma dúvida?
-Você pode enviar um email para: vagas@somoskratos.com.br ou crie uma [nova Isue](https://github.com/somoskratos/teste-estagio-front-end/issues/new).
+Você pode enviar um email para: vagas@somoskratos.com.br ou crie uma [nova issue](https://github.com/somoskratos/teste-estagio-front-end/issues/new).
