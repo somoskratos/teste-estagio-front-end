@@ -38,7 +38,6 @@ Não entende/conhece de algumas das tecnologias descritas acima? Não tem proble
 Não conseguiu finalizar completamente o projeto? Também não tem problema, consideraremos cada linha de código escrita.
 
 ## Quais são as etapas para participar do processo?
-**ATENÇÃO: O PRAZO SE ENCERRA DIA 20/07/2018** :running:
 * Responda nosso [formulário]( https://docs.google.com/forms/d/e/1FAIpQLSfyHEC3hv1PJhUU-DCSTHR5x5f5gG7svdoYYmFBcr2NrlnUTw/viewform?usp=sf_link).
 * Faça um [fork](https://github.com/somoskratos/teste-estagio-front-end/fork) desse projeto em sua conta do GitHub.
 * Implemente o desafio proposto no abaixo.
